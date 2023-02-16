@@ -8,11 +8,11 @@ Hola, mi nombre es Ariana y este es mi sitio en GitHub Pages. Este sitio es una 
 
 Soy un estudiante de la carrera de Software. Me apasiona seguir estudiando y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
-![proyecto-design-sketch-name](https://user-images.githubusercontent.com/57606183/219270531-1e21e52d-4f21-44ad-a938-e265788bb9b5.png)
+![proyecto-design-sketch-name](https://user-images.githubusercontent.com/57606183/219270837-c40b662c-649e-40c2-ba48-24f0ebc954fc.png)
 
 Poder crear un Software.
 
-![contacto-design-sketch-name](https://user-images.githubusercontent.com/57606183/219270511-bb794728-ac31-4a19-a4ed-87bcce80fc41.png)
+![contacto-design-sketch-name](https://user-images.githubusercontent.com/57606183/219270847-d8cf099d-4b93-4cb4-90fc-40dd60c8dd59.png)
 
 Si desea contactarme, puede hacerlo a través de mi correo electrónico en arianacabezas19@gmail.com. También puede encontrarme en Arianamichelle15.
 
